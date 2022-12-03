@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sujit-magar
+# 👋 Hi, I’m @Sujit-magar
 - 📊 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Randomized Algorithms
 - 💻 I'm IT sophomore at GECA
